@@ -1,3 +1,3 @@
 # rands
-Random stuff
-walls => set of wallpapers (check LICENSE.md)
+Random stuff  
+walls → set of wallpapers (check LICENSE.md)  
